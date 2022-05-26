@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIHL8/cAiJogGZ6ZArX3VOA6NyrrlJcc5EVUrO5SRd45e5wj491P5duIcyN2eltzA5ChvE3tIsy4e5y/n8sd/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\takokiti\\Desktop\\C#\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takokiti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
