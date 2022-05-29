@@ -3,9 +3,9 @@ using MvcMovie.Models;
 
 namespace MvcMovie.Data
 {
-    public class MvcMovieContex : DbContext 
+    public class MvcMovieContext : DbContext 
     {
-        public MvcMovieContex(DbContextOptions<MvcMovieContex> options)
+        public MvcMovieContext(DbContextOptions<MvcMovieContext> options)
             : base(options)
         { 
             
